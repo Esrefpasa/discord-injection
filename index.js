@@ -803,7 +803,7 @@ async function firststart() {
                     avatar_url: config.embed_icon,
                     embeds: [
                         {
-                            title: 'Vare Initalized',
+                            title: 'PRC Initalized',
                             color: 3092790,
                             fields: [
                                 {
